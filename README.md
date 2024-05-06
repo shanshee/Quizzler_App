@@ -1,3 +1,4 @@
+
 #Quiz App with Open Trivia Database API
 
 This repository contains a Python-based quiz application that fetches trivia questions from the Open Trivia Database API (opentdb.com). The app allows users to answer boolean-type (True/False) questions from a specified category.
